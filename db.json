@@ -1,0 +1,154 @@
+{
+    "banks": [
+        {
+            "id": 1,
+            "name": "Сбербанк",
+            "address": "Бажова, 1",
+            "distanceFromUser": 1.5
+        },
+        {
+            "id": 2,
+            "name": "Тинькоф",
+            "address": "Челюскинцев, 13",
+            "distanceFromUser": 7
+        },
+        {
+            "id": 3,
+            "name": "СКБ",
+            "address": "Братская, 8",
+            "distanceFromUser": 0.2
+        },
+        {
+            "id": 4,
+            "name": "ВТБ",
+            "address": "Ельцина, 18",
+            "distanceFromUser": 4
+        },
+        {
+            "id": 5,
+            "name": "Синара",
+            "address": "Луначарского, 6",
+            "distanceFromUser": 2
+        },
+        {
+            "id": 6,
+            "name": "Кредит Европа Банк",
+            "address": "Малышева, 9",
+            "distanceFromUser": 2
+        },
+        {
+            "id": 7,
+            "name": "Юникредит",
+            "address": "Космонавтов, 42",
+            "distanceFromUser": 6.5
+        },
+        {
+            "id": 8,
+            "name": "Райфайзен банк",
+            "address": "Ленина, 7",
+            "distanceFromUser": 3
+        },
+        {
+            "id": 9,
+            "name": "Альфа банк",
+            "address": "Вайнера, 15",
+            "distanceFromUser": 2.4
+        },
+        {
+            "id": 10,
+            "name": "ПСБ банк",
+            "address": "Горького, 100",
+            "distanceFromUser": 3.2
+        },
+        {
+            "id": 11,
+            "name": "Кольцо Урала",
+            "address": "Вайнера, 73",
+            "distanceFromUser": 6.2
+        },
+        {
+            "id": 12,
+            "name": "Газпром банк",
+            "address": "Халтурина, 8",
+            "distanceFromUser": 0.7
+        },
+        {
+            "id": 13,
+            "name": "Первоуральск банк",
+            "address": "Амундсена, 13",
+            "distanceFromUser": 5.2
+        },
+        {
+            "id": 14,
+            "name": "Открытие банк",
+            "address": "Гагарина, 1",
+            "distanceFromUser": 4.3
+        },
+        {
+            "id": 15,
+            "name": "Россельхоз банк",
+            "address": "Солнечна, 107",
+            "distanceFromUser": 3.7
+        },
+        {
+            "id": 16,
+            "name": "УБРИР",
+            "address": "Народного хозяйства, 2",
+            "distanceFromUser": 1.7
+        },
+        {
+            "id": 17,
+            "name": "Сити банк",
+            "address": "Белореченская, 8",
+            "distanceFromUser": 3.7
+        },
+        {
+            "id": 18,
+            "name": "Промсвязь банк",
+            "address": "Советская, 18",
+            "distanceFromUser": 8.1
+        },
+        {
+            "id": 19,
+            "name": "Совком банк",
+            "address": "Кольцевая, 1",
+            "distanceFromUser": 0.9
+        },
+        {
+            "id": 20,
+            "name": "УралСиб",
+            "address": "Бардина, 7",
+            "distanceFromUser": 12.1
+        }
+    ],
+    "exchangeRates": [
+        {
+            "currency": "USD", 
+            "rate": 1.2
+        },
+        {
+            "currency": "EUR",
+            "rate": 0.9
+        },
+        {
+            "currency": "RUB",
+            "rate": 80.5
+        },
+        {
+            "currency": "CNY",
+            "rate": 7.1
+        },
+        {
+            "currency": "GBP",
+            "rate": 0.72
+        },
+        {
+            "currency": "JPY",
+            "rate": 134.5
+        },
+        {
+            "currency": "AUD",
+            "rate": 1.6
+        }
+    ]
+}
