@@ -8,7 +8,7 @@
         },
         {
             "id": 2,
-            "name": "Тинькоф",
+            "name": "Тинькофф",
             "address": "Челюскинцев, 13",
             "distanceFromUser": 7
         },
@@ -38,19 +38,19 @@
         },
         {
             "id": 7,
-            "name": "Юникредит",
+            "name": "ЮниКредит Банк",
             "address": "Космонавтов, 42",
             "distanceFromUser": 6.5
         },
         {
             "id": 8,
-            "name": "Райфайзен банк",
+            "name": "Райффайзенбанк",
             "address": "Ленина, 7",
             "distanceFromUser": 3
         },
         {
             "id": 9,
-            "name": "Альфа банк",
+            "name": "Альфа-банк",
             "address": "Вайнера, 15",
             "distanceFromUser": 2.4
         },
@@ -68,7 +68,7 @@
         },
         {
             "id": 12,
-            "name": "Газпром банк",
+            "name": "Газпромбанк",
             "address": "Халтурина, 8",
             "distanceFromUser": 0.7
         },
